@@ -1,10 +1,16 @@
-# PVC Demand and Forecast Analysis
+## 📁 Market Forecasting Model - PVC
+This project forecasts the global PVC demand using Python's Prophet library and Power BI for visualization.
 
-This project uses **Power BI** for data visualization and **Python** (with Prophet) for forecasting PVC demand trends. The analysis includes historical data from 2005-2024 and forecasted demand for future years, with separate models for each region. The goal is to provide insights and facilitate decision-making based on trends in PVC production, demand, imports, exports, and capacity.
+### Overview
+- **Data Source**: IHS Markit data (2005-2021) with forecasts up to 2030.
+- **Technologies**: Python (Prophet), Power BI
+- **Forecasting**: Separate models for each global region, analyzing trends in production, demand, imports, and exports.
 
----
-## Features
-- **Forecasting**: PVC demand forecasting using Prophet in Python.
-- **Dashboard Visualization**: Power BI dashboards with interactive elements, KPIs, and year-over-year growth metrics.
-- **Regional Analysis**: Separate forecast models and visuals for each region to allow in-depth analysis.
-- **Customizable Dashboards**: Users can interact with slicers for different views, and filter by region or year.
+### Features
+- **Dashboards**: Interactive Power BI dashboards for visual insights.
+- **Regional Analysis**: Customized models for different regions.
+- **Key Insights**: Comprehensive analysis of PVC demand trends, supply gaps, and market dynamics.
+
+### Challenges
+- Managing large datasets and creating effective forecasting models.
+- Balancing regional variations in demand and economic influences.
