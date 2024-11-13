@@ -2,7 +2,7 @@
 
 ---
 
-## 📁 Market Forecasting Model - PVC
+## 📁 Market Forecasting Model - [PVC](./Market%20Forecasting%20Model%20-%20PVC)
 This project forecasts the global PVC demand using Python's Prophet library and Power BI for visualization.
 ---
 ## 📁 FreeCodeCamp Projects
